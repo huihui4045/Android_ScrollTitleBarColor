@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TitleBarColor</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="data">
+        <item>我是第一行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+    </string-array>
+</resources>
